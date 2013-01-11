@@ -1,0 +1,15 @@
+# TYPE = S (sensor) | M (motor)
+# ID = 4 bytes
+# CAT = HEATING_SYSTEM | LIGHT_SENSOR | LIGHT_MOTOR | CONTACT | PRESENCE | MUSIC_EQUIPMENT
+# GROUP = integer (starting from 0)
+
+# ----------------------------------------
+# TYPE ID CAT GROUP+
+# ----------------------------------------
+
+
+S A2120056 PRESENCE 0
+S A2125664 CONTACT 1
+
+
+M A5336428 HEATING_SYSTEM 0 1

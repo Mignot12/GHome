@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GHome</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="activity_parametres_reseau_name">Paramêtres réseau</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_parametres_reseau">Paramêtres réseau</string>
+    <string name="connecte">false</string>
+    <string name="ipServeur">-1</string>
+    <string name="timeoutConServeur">10000</string>
+    <string name="connChecked">false</string>
+    <string name="title_activity_maison">Maison</string>
+
+</resources>

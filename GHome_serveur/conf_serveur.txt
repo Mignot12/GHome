@@ -1,0 +1,3 @@
+mdp mignotthebest
+port 5432
+ip_publique 109.0.210.65
